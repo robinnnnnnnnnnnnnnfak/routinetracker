@@ -1,0 +1,6 @@
+{
+  "name": "Maxx Routine",
+  "description": "A clean, modern, and minimal student routine tracker for daily task completion and habit consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
